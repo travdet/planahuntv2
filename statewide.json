@@ -1,0 +1,466 @@
+[
+  {
+    "deer_seasons_by_zone": [
+      {
+        "zone": "YELLOW",
+        "seasons": [
+          {
+            "equipment": "Archery",
+            "start": "Sept. 13, 2025",
+            "end": "Oct. 10, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Primitive Weapons",
+            "start": "Oct. 11, 2025",
+            "end": "Oct. 17, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Oct. 18, 2025",
+            "end": "Nov. 28, 2025",
+            "opportunity": "Antlered Bucks Only"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Nov. 29, 2025",
+            "end": "Nov. 30, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Dec. 1, 2025",
+            "end": "Dec. 31, 2025",
+            "opportunity": "Antlered Bucks Only"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Jan. 1, 2026",
+            "end": "Jan. 1, 2026",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Jan. 2. 2026",
+            "end": "Jan. 11, 2026",
+            "opportunity": "Antlered Bucks Only"
+          }
+        ]
+      },
+      {
+        "zone": "GREEN",
+        "seasons": [
+          {
+            "equipment": "Archery",
+            "start": "Sept. 13, 2025",
+            "end": "Oct. 10, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Primitive Weapons",
+            "start": "Oct. 11, 2025",
+            "end": "Oct. 17, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Oct. 4, 2025",
+            "end": "Oct. 5, 2025",
+            "opportunity": "Antlerless Only"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Oct. 18, 2025",
+            "end": "Jan. 11, 2026",
+            "opportunity": "Either-Sex"
+          }
+        ]
+      },
+      {
+        "zone": "CYAN",
+        "seasons": [
+          {
+            "equipment": "Archery",
+            "start": "Sept. 13, 2025",
+            "end": "Oct. 10, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Primitive Weapons",
+            "start": "Oct. 11, 2025",
+            "end": "Oct. 17, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Oct. 18, 2025",
+            "end": "Nov. 6, 2025",
+            "opportunity": "Antlered Bucks Only"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Nov. 7, 2025",
+            "end": "Nov. 13, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Nov. 14, 2025",
+            "end": "Dec. 31, 2025",
+            "opportunity": "Antlered Bucks Only"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Jan. 1, 2026",
+            "end": "Jan. 1, 2026",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Jan. 2, 2026",
+            "end": "Jan. 11, 2026",
+            "opportunity": "Antlered Bucks Only"
+          }
+        ]
+      },
+      {
+        "zone": "MAGENTA",
+        "seasons": [
+          {
+            "equipment": "Archery",
+            "start": "Sept. 13, 2025",
+            "end": "Sept. 28, 2025",
+            "opportunity": "Antlered Bucks Only"
+          },
+          {
+            "equipment": "Archery",
+            "start": "Sept. 29, 2025",
+            "end": "Oct. 10, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Archery",
+            "start": "Jan. 16, 2026",
+            "end": "Jan. 31, 2026",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Primitive Weapons",
+            "start": "Oct. 11, 2025",
+            "end": "Oct. 17, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Oct. 4, 2025",
+            "end": "Oct. 5, 2025",
+            "opportunity": "Antlerless Only"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Oct. 18, 2025",
+            "end": "Jan. 15, 2026",
+            "opportunity": "Either-Sex"
+          }
+        ]
+      },
+      {
+        "zone": "ORANGE",
+        "seasons": [
+          {
+            "equipment": "Archery",
+            "start": "Sept. 13, 2025",
+            "end": "Oct. 10, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Primitive Weapons",
+            "start": "Oct. 11, 2025",
+            "end": "Oct. 17, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Oct. 18, 2025",
+            "end": "Nov. 6, 2025",
+            "opportunity": "Antlered Bucks Only"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Nov. 7, 2025",
+            "end": "Nov. 13, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Nov. 14, 2025",
+            "end": "Nov. 20, 2025",
+            "opportunity": "Antlered Bucks Only"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Nov. 21, 2025",
+            "end": "Nov. 27, 2025",
+            "opportunity": "Either-Sex"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Nov. 28, 2025",
+            "end": "Dec. 28, 2025",
+            "opportunity": "Antlered Bucks Only"
+          },
+          {
+            "equipment": "Firearms",
+            "start": "Dec. 29, 2025",
+            "end": "Jan. 11, 2026",
+            "opportunity": "Either-Sex"
+          }
+        ]
+      },
+      {
+        "zone": "GRAY",
+        "seasons": [
+          {
+            "equipment": "Archery",
+            "start": "Sept. 13, 2025",
+            "end": "Jan. 31, 2026",
+            "opportunity": "Either-Sex"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_title": "Big Game, Small Game & Trapping",
+    "seasons": [
+      {
+        "category": "GAME \nBIG",
+        "species": "Deer",
+        "season": "Archery",
+        "dates_limits": "Sept. 13-Oct. 10 See pages 12-13 for either sex days."
+      },
+      {
+        "category": "GAME \nBIG",
+        "species": "Deer",
+        "season": "Extended Archery: See page 11 for counties.",
+        "dates_limits": "12 per season, Statewide. No more than 10 may be antlerless Jan. 12-31 and no more than 2 may be antlered. One of the 2 antlered deer must have at least 4 points, one inch or longer, on one side of"
+      },
+      {
+        "category": "GAME \nBIG",
+        "species": "Deer",
+        "season": "Primitive Weapons & Youth- Only Firearms (see page 11)",
+        "dates_limits": "the antlers or at least a 15-inch outside spread. See page 11 for requirements in counties with antler restrictions. Oct. 11-Oct. 17"
+      },
+      {
+        "category": "GAME \nBIG",
+        "species": "Deer",
+        "season": "Firearms Northern Zone",
+        "dates_limits": "\"\"Firearms deer hunting is not allowed in Clayton, Cobb, DeKalb, Fulton (north of GA Hwy 92), and that portion of Glynn County Oct. 18-Jan. 11 lying within Jekyll Island. In the portion of Forsyth County Oct. 18-Jan. 15 (Baker, Decatur, Calhoun, Early, Grady, Miller, Mitchell, Seminole, & Thomas Counties) Archery: Sept. 13-Oct10. Primitive Weapons & Youth Only Firearms: Oct. 11-17 south of GA Hwy 20 only shotguns and muzzleloaders may be used (no other firearms allowed). In Baker, Calhoun, Decatur, Early, Grady, Miller, Mitchell, Seminole, & Thomas Cos., the first 2 weeks of archery is buck only."
+      },
+      {
+        "category": "GAME \nBIG",
+        "species": "Bear",
+        "season": "Central Zone",
+        "dates_limits": "Two per season, provided, however, no more than one of these may be taken from the Central or Southern Zones. See pages 8 & 14 for bear harvest and reporting requirements. See page 20 for reporting requirements for bears harvested on WMAs. Firearms: Oct. 18-Jan. 11 Firearms: Dec. 20"
+      },
+      {
+        "category": "GAME \nBIG",
+        "species": "Bear",
+        "season": "Southern Zone",
+        "dates_limits": "\"\"If fewer than 6 female bears are harvested on Dec. 20 then a 2nd hunt day will be opened in January (please visit www.georgiawildlife.com after Dec. 22. Firearms: Sept. 18-20, Sept. 25-27, Oct. 2-4, Oct. 9-11"
+      },
+      {
+        "category": "GAME \nBIG",
+        "species": "Turkey",
+        "season": "Special Opportunity. Statewide",
+        "dates_limits": "Only for youth under 16 years of age and mobility-impaired persons (see page 15). This season does not apply to public lands unless otherwise specified. Mar. 21-22, 2026"
+      },
+      {
+        "category": "GAME \nBIG",
+        "species": "Turkey",
+        "season": "Private Lands WMAS, VPAS & National Forest",
+        "dates_limits": "2 Gobblers per season; Daily bag limit of 1 (including Special Opportunity season). On WMAs, VPAS, & National Forest lands: 1 gobbler per area per person. See individual WMA listings for specifics pages 28-49. Mar. 28-May 15, 2026 Apr. 4-May 15, 2026"
+      },
+      {
+        "category": "GAME \nBIG",
+        "species": "Alligator",
+        "season": "Zone & Quota Limited",
+        "dates_limits": "Aug. 15 (Sunset) - Oct. 6 (Sunrise) 1 per quota permit holder"
+      },
+      {
+        "category": "GAME \nSMALL",
+        "species": "Fox & Bobcat",
+        "season": "Statewide",
+        "dates_limits": "Dec. 1-Feb. 28 No limit"
+      },
+      {
+        "category": "GAME \nSMALL",
+        "species": "Grouse",
+        "season": "Statewide Falconry",
+        "dates_limits": "3 per day Oct. 15-Feb. 28 3 per day Oct. 1-Mar. 15"
+      },
+      {
+        "category": "GAME \nSMALL",
+        "species": "Quail",
+        "season": "Statewide",
+        "dates_limits": "Nov. 8-Feb. 28 12 per day"
+      },
+      {
+        "category": "GAME \nSMALL",
+        "species": "Quail",
+        "season": "Falconry",
+        "dates_limits": "Oct. 1-Mar. 15 12 per day"
+      },
+      {
+        "category": "GAME \nSMALL",
+        "species": "Rabbit",
+        "season": "Statewide",
+        "dates_limits": "Nov. 11-Feb. 28 12 per day"
+      },
+      {
+        "category": "GAME \nSMALL",
+        "species": "Rabbit",
+        "season": "Falconry",
+        "dates_limits": "Oct. 1-Mar. 15 12 per day"
+      },
+      {
+        "category": "GAME \nSMALL",
+        "species": "Raccoon & Opossum",
+        "season": "Private lands",
+        "dates_limits": "No closed season No limit"
+      },
+      {
+        "category": "GAME \nSMALL",
+        "species": "Raccoon & Opossum",
+        "season": "Public lands",
+        "dates_limits": "Aug. 15-Feb. 28 No limit"
+      },
+      {
+        "category": "GAME \nSMALL",
+        "species": "Squirrel",
+        "season": "Statewide Falconry",
+        "dates_limits": "Aug. 15-Feb. 28 12 per day Aug. 15-Mar. 15 12 per day"
+      },
+      {
+        "category": "TRAPPING",
+        "species": "Bobcat. Fox, Mink, Muskrat, Otter. Skunk, Weasel",
+        "season": "Statewide",
+        "dates_limits": "No limit Dec. 1-Feb. 28"
+      },
+      {
+        "category": "TRAPPING",
+        "species": "Raccoon, Opossum",
+        "season": "Statewide",
+        "dates_limits": "No limit No closed season"
+      }
+    ]
+  },
+  {
+    "category_title": "Migratory Birds",
+    "seasons": [
+      {
+        "species": "Canada Goose",
+        "season": "Statewide",
+        "dates": "Sept. 6-28 Oct. 11-26 Nov. 22-30 Dec. 6-Jan. 25",
+        "limit": "5 per day, combined"
+      },
+      {
+        "species": "Brant",
+        "season": "Closed",
+        "dates": null,
+        "limit": null
+      },
+      {
+        "species": "Common (Wilson's) Snipe",
+        "season": "Statewide",
+        "dates": "Nov. 15-Feb. 28",
+        "limit": "8 per day"
+      },
+      {
+        "species": "Coot",
+        "season": "Statewide",
+        "dates": "Nov. 22-Nov. 30 Dec. 6-Jan. 25",
+        "limit": "15 per day"
+      },
+      {
+        "species": "Coot",
+        "season": "Falconry",
+        "dates": "Sept. 6-28, Oct. 11-26, Nov. 15-16, Nov. 22-30, Dec. 1-Jan. 25",
+        "limit": "3 per day 9 in possession"
+      },
+      {
+        "species": "Crow",
+        "season": "Statewide",
+        "dates": "Nov. 1-Feb. 28",
+        "limit": "No limit"
+      },
+      {
+        "species": "Mourning Doves",
+        "season": "Statewide",
+        "dates": "Sept. 6-Oct. 12 Nov. 22-Nov. 30 Dec. 19-Jan. 31",
+        "limit": "15 per day"
+      },
+      {
+        "species": "Ducks",
+        "season": "Statewide",
+        "dates": "Nov. 22-Nov. 30 Dec. 6-Jan. 25",
+        "limit": "6 per day; no more than 4 may be sea ducks See Species Limits"
+      },
+      {
+        "species": "Ducks",
+        "season": "Falconry",
+        "dates": "Sept. 6-28, Oct. 11-26, Nov. 15-16, Nov. 22-30, Dec. 1-Jan. 25",
+        "limit": "3 per day 9 in possession"
+      },
+      {
+        "species": "Gallinules",
+        "season": "Statewide",
+        "dates": "Nov. 22-Nov. 30 Dec. 6-Jan. 25",
+        "limit": "15 per day"
+      },
+      {
+        "species": "Harlequin",
+        "season": "Closed",
+        "dates": null,
+        "limit": null
+      },
+      {
+        "species": "Mergansers",
+        "season": "Statewide",
+        "dates": "Nov. 22-Nov. 30 Dec. 6-Jan. 25",
+        "limit": "5 per day"
+      },
+      {
+        "species": "Snow Goose & White-fronted Goose",
+        "season": "Statewide",
+        "dates": "Oct. 11-26 Nov. 22-30 Dec. 6-Jan. 25",
+        "limit": "5 per day"
+      },
+      {
+        "species": "Sora and Rails",
+        "season": "Statewide",
+        "dates": "Sept. 8-13 Oct. 6-Nov. 30",
+        "limit": "King & Clapper: 15 per day Sora and Virginia: 25 per day"
+      },
+      {
+        "species": "Rails",
+        "season": "Falconry",
+        "dates": "Sept. 6-28, Oct. 11-26, Nov. 15-16, Nov. 22-30, Dec. 1-Jan. 25",
+        "limit": "3 per day 9 in possession"
+      },
+      {
+        "species": "Teal",
+        "season": "Statewide",
+        "dates": "Sept. 13-21",
+        "limit": "6 per day"
+      },
+      {
+        "species": "Woodcock",
+        "season": "Statewide",
+        "dates": "Dec. 6-Jan. 19",
+        "limit": "3 per day"
+      }
+    ]
+  }
+]
