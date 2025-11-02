@@ -1,0 +1,496 @@
+[
+  {
+    "name": "Allatoona WMA",
+    "wma_id": "allatoona-wma",
+    "phone": "706.295.6041",
+    "county": "Bartow",
+    "acreage": 6818,
+    "amenities": {
+      "boat_ramp": true,
+      "camping": false,
+      "shooting_range": false,
+      "dog_training_area": false,
+      "archery_range": false,
+      "bird_dog_training": false
+    },
+    "notes": [
+      "Firearms prohibited in U.S. Corps of Engineers developed campsites.",
+      "Horse and bicycle trails & areas are closed all day during Firearms Specialty Hunt and before 10 am EST during other deer and turkey seasons.",
+      "No ATVs.",
+      "No camping."
+    ],
+    "directions": "From Cartersville Take HWY 20 east from I-75, 5.5 miles to check station.",
+    "deer_zone": "C",
+    "map_points": {
+      "campgrounds": [],
+      "parking": [
+        {
+          "name": "Parking Area",
+          "coords": [
+            -84.72153549999998,
+            34.16104953900003
+          ]
+        },
+        {
+          "name": "Parking Area",
+          "coords": [
+            -84.71969485,
+            34.16315570900007
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "name": "Gate",
+          "coords": [
+            -84.72149593199998,
+            34.16110191500003
+          ]
+        },
+        {
+          "name": "Gate",
+          "coords": [
+            -84.72251347099996,
+            34.16246342500003
+          ]
+        },
+        {
+          "name": "Gate",
+          "coords": [
+            -84.71966524199998,
+            34.16319808800004
+          ]
+        },
+        {
+          "name": "Gate",
+          "coords": [
+            -84.71716307599995,
+            34.16543110900006
+          ]
+        }
+      ],
+      "dovefields": [],
+      "check_stations": []
+    },
+    "geo_name": "ALLATOONA WMA"
+  },
+  {
+    "name": "Altamaha WMA - Butler Island",
+    "wma_id": "altamaha-wma-butler-island",
+    "phone": "912.262.3173",
+    "county": "McIntosh",
+    "acreage": 11402,
+    "amenities": {
+      "boat_ramp": true,
+      "camping": false,
+      "shooting_range": false,
+      "dog_training_area": false,
+      "archery_range": false,
+      "bird_dog_training": false
+    },
+    "notes": [
+      "Area includes Broughton, Butler, Champney, and Rhetts Islands.",
+      "Butler Refuge (east of Hwy 17 on Butler Island) and Ansley Hodges MARSH Project (west of Hwy 17 on Champney Island) are always closed to firearms but archery equipment may be used during open dates listed above to take deer, hog, and rabbits after the last Saturday of waterfowl season.",
+      "Airboats are banned in managed waterfowl impoundments.",
+      "Access to Rhetts Island is limited to designated crossover sites, with boats restricted to a 25hp motor or less.",
+      "Fishing, shrimping, and crabbing are prohibited on Rhetts Island during early teal and statewide waterfowl season.",
+      "Butler Island ponds and impoundments west of HWY 17 are closed to cast netting.",
+      "Drone use, including launching and landing, is prohibited."
+    ],
+    "directions": "From Darien: Take U.S. HWY 17 south 1.5 miles; check station is on the right.",
+    "deer_zone": "D",
+    "map_points": {
+      "campgrounds": [],
+      "parking": [],
+      "gates": [],
+      "dovefields": [],
+      "check_stations": []
+    },
+    "geo_name": "ALTAMAHA WMA-BUTLER ISLAND"
+  },
+  {
+    "name": "Altamaha WMA - Champney Island",
+    "wma_id": "altamaha-wma-champney-island",
+    "phone": "912.262.3173",
+    "county": "McIntosh",
+    "acreage": 11402,
+    "amenities": {
+      "boat_ramp": true,
+      "camping": false,
+      "shooting_range": false,
+      "dog_training_area": false,
+      "archery_range": false,
+      "bird_dog_training": false
+    },
+    "notes": [
+      "Area includes Broughton, Butler, Champney, and Rhetts Islands.",
+      "Butler Refuge (east of Hwy 17 on Butler Island) and Ansley Hodges MARSH Project (west of Hwy 17 on Champney Island) are always closed to firearms but archery equipment may be used during open dates listed above to take deer, hog, and rabbits after the last Saturday of waterfowl season.",
+      "Airboats are banned in managed waterfowl impoundments.",
+      "Access to Rhetts Island is limited to designated crossover sites, with boats restricted to a 25hp motor or less.",
+      "Fishing, shrimping, and crabbing are prohibited on Rhetts Island during early teal and statewide waterfowl season.",
+      "Butler Island ponds and impoundments west of HWY 17 are closed to cast netting.",
+      "Drone use, including launching and landing, is prohibited."
+    ],
+    "directions": "From Darien: Take U.S. HWY 17 south 1.5 miles; check station is on the right.",
+    "deer_zone": "D",
+    "map_points": {
+      "campgrounds": [],
+      "parking": [
+        {
+          "name": "Champney Island Parking Area",
+          "coords": [
+            -81.423985955,
+            31.38379105400004
+          ]
+        },
+        {
+          "name": "Champney Island Parking Area",
+          "coords": [
+            -81.419163625,
+            31.383859677000072
+          ]
+        }
+      ],
+      "gates": [],
+      "dovefields": [],
+      "check_stations": []
+    },
+    "geo_name": "ALTAMAHA WMA-CHAMPNEY ISLAND"
+  },
+  {
+    "name": "Altamaha WMA - Rhetts Island",
+    "wma_id": "altamaha-wma-rhetts-island",
+    "phone": "912.262.3173",
+    "county": "McIntosh",
+    "acreage": 11402,
+    "amenities": {
+      "boat_ramp": true,
+      "camping": false,
+      "shooting_range": false,
+      "dog_training_area": false,
+      "archery_range": false,
+      "bird_dog_training": false
+    },
+    "notes": [
+      "Area includes Broughton, Butler, Champney, and Rhetts Islands.",
+      "Butler Refuge (east of Hwy 17 on Butler Island) and Ansley Hodges MARSH Project (west of Hwy 17 on Champney Island) are always closed to firearms but archery equipment may be used during open dates listed above to take deer, hog, and rabbits after the last Saturday of waterfowl season.",
+      "Airboats are banned in managed waterfowl impoundments.",
+      "Access to Rhetts Island is limited to designated crossover sites, with boats restricted to a 25hp motor or less.",
+      "Fishing, shrimping, and crabbing are prohibited on Rhetts Island during early teal and statewide waterfowl season.",
+      "Butler Island ponds and impoundments west of HWY 17 are closed to cast netting.",
+      "Drone use, including launching and landing, is prohibited."
+    ],
+    "directions": "From Darien: Take U.S. HWY 17 south 1.5 miles; check station is on the right.",
+    "deer_zone": "D",
+    "map_points": {
+      "campgrounds": [],
+      "parking": [],
+      "gates": [],
+      "dovefields": [],
+      "check_stations": []
+    },
+    "geo_name": "ALTAMAHA WMA-RHETTS ISLAND"
+  },
+  {
+    "name": "Arrowhead WMA",
+    "wma_id": "arrowhead-wma",
+    "phone": "706.295.6041",
+    "county": "Floyd",
+    "acreage": 337,
+    "amenities": {
+      "boat_ramp": false,
+      "camping": false,
+      "shooting_range": false,
+      "dog_training_area": false,
+      "archery_range": false,
+      "bird_dog_training": false
+    },
+    "notes": [
+      "No ATVs except mobility impaired hunters during mobility impaired hunt.",
+      "No camping."
+    ],
+    "directions": "From Rome: Take U.S. Hwy 27 north 9 miles to GA HWY 156; turn right (east) and go 2.3 miles to Floyd Springs Rd; turn left and go 2 miles to area.",
+    "deer_zone": "C",
+    "map_points": {
+      "campgrounds": [],
+      "parking": [],
+      "gates": [
+        {
+          "name": "Gate",
+          "coords": [
+            -85.15003612599998,
+            34.39462723300004
+          ]
+        },
+        {
+          "name": "Gate",
+          "coords": [
+            -85.14725514099996,
+            34.394429532000055
+          ]
+        }
+      ],
+      "dovefields": [],
+      "check_stations": []
+    },
+    "geo_name": "ARROWHEAD WMA"
+  },
+  {
+    "name": "B. F. Grant WMA",
+    "wma_id": "b-f-grant-wma",
+    "phone": "706.595.4222",
+    "county": "Putnam",
+    "acreage": 11400,
+    "amenities": {
+      "boat_ramp": false,
+      "camping": true,
+      "shooting_range": false,
+      "dog_training_area": false,
+      "archery_range": false,
+      "bird_dog_training": false
+    },
+    "notes": [
+      "No hunting on or access through pastures."
+    ],
+    "directions": "From Eatonton: Take HWY 16 west 0.7 miles; turn right on HWY 441 Bypass; go 1.5 miles to Godfrey Rd at the flashing traffic light; turn left and go 6 miles to Check-In station.",
+    "deer_zone": "C",
+    "map_points": {
+      "campgrounds": [
+        {
+          "name": "B.F. Grant WMA Campground",
+          "coords": [
+            -83.52496229199998,
+            33.37799175700005
+          ]
+        }
+      ],
+      "parking": [
+        {
+          "name": "B.F. Grant Parking",
+          "coords": [
+            -83.52528761199998,
+            33.37805149300004
+          ]
+        },
+        {
+          "name": "B.F. Grant Parking",
+          "coords": [
+            -83.518600101,
+            33.40078869100007
+          ]
+        },
+        {
+          "name": "B.F. Grant Parking",
+          "coords": [
+            -83.50424076799997,
+            33.39956429900005
+          ]
+        },
+        {
+          "name": "B.F. Grant Parking",
+          "coords": [
+            -83.500595305,
+            33.38883624800006
+          ]
+        },
+        {
+          "name": "B.F. Grant Parking",
+          "coords": [
+            -83.50158866599997,
+            33.38531238900005
+          ]
+        },
+        {
+          "name": "B.F. Grant Parking",
+          "coords": [
+            -83.50917714899998,
+            33.38541294800007
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "name": "B.F. Grant Gate",
+          "coords": [
+            -83.52554605999997,
+            33.37827806500006
+          ]
+        },
+        {
+          "name": "B.F. Grant Gate",
+          "coords": [
+            -83.50074256299997,
+            33.38891167400002
+          ]
+        },
+        {
+          "name": "B.F. Grant Gate",
+          "coords": [
+            -83.501170757,
+            33.38799496600003
+          ]
+        },
+        {
+          "name": "B.F. Grant Gate",
+          "coords": [
+            -83.501625902,
+            33.38536130900006
+          ]
+        },
+        {
+          "name": "B.F. Grant Gate",
+          "coords": [
+            -83.509012658,
+            33.38545801400007
+          ]
+        },
+        {
+          "name": "B.F. Grant Gate",
+          "coords": [
+            -83.51888066599997,
+            33.40097721800006
+          ]
+        },
+        {
+          "name": "B.F. Grant Gate",
+          "coords": [
+            -83.50427845399998,
+            33.39947997900003
+          ]
+        },
+        {
+          "name": "B.F. Grant Gate",
+          "coords": [
+            -83.51374526,
+            33.36442657800004
+          ]
+        }
+      ],
+      "dovefields": [],
+      "check_stations": []
+    },
+    "geo_name": "B F GRANT WMA"
+  },
+  {
+    "name": "Bartram Forest WMA",
+    "wma_id": "bartram-forest-wma",
+    "phone": "706.595.4222",
+    "county": "Baldwin",
+    "acreage": 1343,
+    "amenities": {
+      "boat_ramp": true,
+      "camping": false,
+      "shooting_range": false,
+      "dog_training_area": false,
+      "archery_range": false,
+      "bird_dog_training": false
+    },
+    "notes": [
+      "Bartram Forest is a multi-use forest; other users may be present during open hunting seasons.",
+      "Gates may be open/closed at the discretion of Georgia Forestry Commission.",
+      "Please see WMA maps for safety zones.",
+      "No firearms hunting is allowed.",
+      "No camping."
+    ],
+    "directions": "From Milledgeville: Take US 441 south 3.1 miles, turn left; continue 2.9 miles on US 441/GA29 and make U-turn to return north; go 0.1 miles to 1st pull-in on right. Kiosk is just down that road.",
+    "deer_zone": "C",
+    "map_points": {
+      "campgrounds": [],
+      "parking": [
+        {
+          "name": "Bartram Forest Parking",
+          "coords": [
+            -83.20815339699998,
+            32.99026210000006
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "name": "Gate",
+          "coords": [
+            -83.21147071199995,
+            33.00169315500005
+          ]
+        },
+        {
+          "name": "Gate",
+          "coords": [
+            -83.21094033399998,
+            33.00030526300006
+          ]
+        },
+        {
+          "name": "Gate",
+          "coords": [
+            -83.20786938999996,
+            32.99042358800004
+          ]
+        }
+      ],
+      "dovefields": [],
+      "check_stations": []
+    },
+    "geo_name": "BARTRAM FOREST WMA"
+  },
+  {
+    "name": "Beaverdam WMA",
+    "wma_id": "beaverdam-wma",
+    "phone": "229.426.5267",
+    "county": "Laurens",
+    "acreage": 5500,
+    "amenities": {
+      "boat_ramp": true,
+      "camping": true,
+      "shooting_range": true,
+      "dog_training_area": true,
+      "archery_range": false,
+      "bird_dog_training": false
+    },
+    "notes": [],
+    "directions": "From Dublin: Take U.S. 441 north 4.5 miles; turn right on Old Toomsboro Rd., go 7.5 miles to WMA sign; turn right on Oconee Church Rd., turn at WMA sign.",
+    "deer_zone": "C",
+    "map_points": {
+      "campgrounds": [
+        {
+          "name": "Beaverdam Creek WMA Campground",
+          "coords": [
+            -82.99127814399997,
+            32.61058778400007
+          ]
+        }
+      ],
+      "parking": [],
+      "gates": [],
+      "dovefields": [],
+      "check_stations": [
+        {
+          "name": "Beaverdam WMA Check Station",
+          "coords": [
+            -82.99083861299998,
+            32.61026074200004
+          ]
+        }
+      ]
+    },
+    "geo_name": "BEAVERDAM WMA"
+  },
+  {
+    "name": "Berry College WMA",
+    "wma_id": "berry-college-wma",
+    "phone": "706.295.6041",
+    "county": "Floyd",
+    "acreage": 15605,
+    "amenities": {
+      "boat_ramp": false,
+      "camping": false,
+      "shooting_range": false,
+      "dog_training_area": true,
+      "archery_range": false,
+      "bird_dog_training": true
+    },
+    "notes": [
+      "Possession of firearms and archery equipment and all hunting are prohibited on the Berry College campus and refuge.",
+      "Hunters cannot use the campus to access the WMA.",
+      "No ATVs allowed.",
+      "Foot trails, bicycle, and horse areas are closed all day during firearms deer season and before 10:
